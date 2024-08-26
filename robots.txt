@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimaxso.github.io/sitemap.xml
